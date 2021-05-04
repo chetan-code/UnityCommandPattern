@@ -1,6 +1,6 @@
 # Command Pattern Unity
 ### Basic implementation of command pattern in Unity3d.
-### FREE Assets Reqired :
+### FREE Assets required :
 | Asset | Download Link |
 | ------ | ------ |
 | DOTween (HOTween v2) | [https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676] |
