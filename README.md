@@ -3,8 +3,8 @@
 ### FREE Assets Reqired :
 | Asset | Download Link |
 | ------ | ------ |
-| DOTween (HOTween v2) | [https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676][PlDb] |
-| Gridbox Prototype Materials | [https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127][PlGh] |
+| DOTween (HOTween v2) | [https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676] |
+| Gridbox Prototype Materials | [https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127] |
 
 ### How to use this package : 
 - Import this package (Download zip --> unzip --> Assets --> Scene --> click on scene file // or // use packagae manager git import)
